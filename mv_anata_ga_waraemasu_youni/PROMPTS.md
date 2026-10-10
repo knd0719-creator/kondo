@@ -43,10 +43,20 @@ A close-up from above of a pair of tired hands slowly opening a worn canvas shou
 A wide shot from behind of a lone person standing at a pedestrian crossing at dusk, raising one hand to wave goodbye to two small distant friends walking away on the far side of the street. The person's face is not visible, and their shoulders are slightly slumped despite the cheerful wave. The traffic light glows red, and the evening wind pushes the hem of the loose coat. Car headlights streak past and scatter reflections across the asphalt. The person's long shadow stretches back toward the viewer over the white stripes. Leave empty space on the left side of the frame for vertical text. Intense cinematic lighting, highly detailed anime art style, lonely after-school twilight atmosphere. the character's outfits : 1other, from behind, faceless, androgynous, short dark hair, gray hoodie, dark long coat, canvas shoulder bag, sneakers.
 ```
 
-### IL04 — 육교 위에서 내려다보는 애슐리 · 컷 08–09 (첫 등장)
+### IL04 — 육교 위에서 내려다보는 애슐리 · 컷 09 「わたしは知っていますよ」
+
+> 수정: 카메라를 **육교 아래 도로**에 두고 올려다보게 해서 높이 차이를 확실히. 표정은 웃음 → **안타까운 미소**(힘들어하는 사람을 지켜보는 마음).
 
 ```
-A medium shot from below of a gentle anime girl leaning on the railing of a pedestrian overpass at dusk, looking down at the viewer with a soft, knowing smile, hands clasped on the railing. Behind her, the orange sunset sky melts into blue, and city lights begin to glow along the road below. A soft evening wind blows across the overpass, and the warm light catches the dust in the air like tiny sparks. Her blonde hair streams sideways in the wind and the hem of her skirt sways against the railing. Leave empty space on the left side of the frame for vertical text. Intense cinematic lighting, highly detailed anime art style, tender twilight atmosphere. the character's outfits : blue eyes, tareme, blonde hair, medium hair, blunt bangs, blue butterfly hairpin, soft smile, looking at viewer, white shirt, pink bowtie, large breasts, navy pleated skirt.
+A wide shot from far below at street level, extreme low angle, looking straight up at a pedestrian overpass that spans the upper part of the frame against the dusk sky. The concrete underside and steel girders of the overpass cut across the top of the frame, and a lone gentle anime girl leans over its railing with her arms folded on the rail, looking down at the viewer far below. Her expression is a sad, worried smile with her eyebrows drawn together, as if she is watching someone who keeps pushing themselves too hard. The solid side panel of the overpass hides her below the chest. Car headlights stream beneath the overpass, and the sky behind her fades from orange to deep navy. An evening wind blows across the overpass, and her blonde hair spills over the railing toward the street below. Leave empty space on the left side of the frame for vertical text. Intense cinematic lighting, highly detailed anime art style, wistful twilight atmosphere. the character's outfits : blue eyes, tareme, blonde hair, medium hair, blunt bangs, blue butterfly hairpin, sad smile, worried, looking down, looking at viewer, white shirt, pink bowtie, large breasts.
+```
+
+### IL04b (추가) — 애슐리의 시점: 육교 위에서 본 「あなた」 · 컷 08 「頑張りやさんですね」
+
+> 애슐리의 등 너머로, 아래 횡단보도에 혼자 선 「あなた」(IL03과 같은 옷)를 내려다보는 컷. 컷 08 = IL04b(누구를 보고 있는지) → 컷 09 = IL04(애슐리의 얼굴) 순서.
+
+```
+A shot from above over the shoulder, from behind a gentle anime girl leaning on the railing of a pedestrian overpass at dusk, looking down at the street far below. Far below, at the pedestrian crossing, a small lone person in a gray hoodie and dark coat stands waiting at the red light with slumped shoulders, their long shadow stretching across the white stripes. Her hand rests on the railing, fingers curled slightly, as if she wants to reach out but cannot. Car headlights streak along the road beneath the overpass, and the first streetlights flicker on. An evening wind blows across the overpass and lifts strands of her blonde hair into the foreground of the frame. Leave empty space on the right side of the frame for vertical text. Intense cinematic lighting, highly detailed anime art style, wistful twilight atmosphere. the character's outfits : from behind, over the shoulder, blonde hair, medium hair, blue butterfly hairpin, white shirt.
 ```
 
 ### IL05 — 어두운 방, 무릎을 안은 실루엣 · 컷 10–11 (IL10의 미러 원본)
@@ -119,14 +129,18 @@ A medium shot in three-quarter view of a gentle anime girl standing on a grassy 
 
 ### IL13 — 웅덩이에 비친 가로등과 두 사람의 발 (선택) · 컷 36–37
 
-```
-A close-up from above of a puddle on a wet asphalt street after the rain at night, with two pairs of feet standing side by side at its edge: a pair of worn sneakers and a pair of loafers with black socks. The puddle mirrors a glowing streetlight and the faint silhouettes of the two people. The last drops fall from the eaves above and spread slow rings across the reflection. The rings distort the reflected streetlight into trembling ribbons of warm light. Leave empty space on the left side of the frame for vertical text. Intense cinematic lighting, highly detailed anime art style, calm after-rain night atmosphere. the character's outfits : feet only, two people, sneakers, black socks, loafers.
-```
-
-### IL14 — 신발 끈을 묶어 주는 손 · 컷 38
+> 수정: 「あなた」 쪽에 **발목까지 덮는 긴 바지**를 명시.
 
 ```
-A close-up at ground level of a pair of slender hands carefully tying the shoelace of someone's worn sneaker into a neat bow, on a wet street at night after the rain, hands focus. A few strands of blonde hair fall into the top of the frame as she leans in. Warm streetlight reflects on the damp asphalt, and a soft wind carries the last fine mist of the rain through the light. The freshly tied laces pull the sneaker snug, and tiny drops shake loose from them onto the ground. Leave empty space in the upper left of the frame for text. Intense cinematic lighting, highly detailed anime art style, tender quiet night atmosphere. the character's outfits : hands only, blonde hair, white shirt sleeve, sneakers.
+A close-up from above of a puddle on a wet asphalt street after the rain at night, with two pairs of feet standing side by side at its edge: a pair of worn gray sneakers under the hems of long dark jogger pants that cover the ankles, and a pair of brown loafers with black socks. The puddle mirrors a glowing streetlight and the faint silhouettes of the two people. The last drops fall from the eaves above and spread slow rings across the reflection. The rings distort the reflected streetlight into trembling ribbons of warm light. Leave empty space on the left side of the frame for vertical text. Intense cinematic lighting, highly detailed anime art style, calm after-rain night atmosphere. the character's outfits : feet only, two people, long dark pants, sneakers, black socks, brown loafers.
+```
+
+### IL14 — 「あなた」의 신발 끈을 묶어 주는 애슐리 · 컷 38
+
+> 수정: 손 클로즈업이면 「자기 신발을 묶는 그림」으로 보여서, **옆에서 본 구도**로 변경. 왼쪽에 「あなた」의 다리(긴 바지+스니커), 그 앞에 한쪽 무릎을 꿇고 끈을 묶는 애슐리의 옆모습 → 두 사람이 따로 있다는 게 한눈에 보이게.
+
+```
+A full body side view at ground level on a wet street at night after the rain. At the left edge of the frame stands a person whose lower legs are the only part visible, wearing long dark jogger pants and worn gray sneakers, one shoelace untied. Kneeling on one knee in front of them, a gentle anime girl in profile carefully ties that person's shoelace into a neat bow with both hands, her eyes lowered and her expression gentle and focused. She wears her own brown loafers with black socks. Warm streetlight reflects on the damp asphalt, and a soft wind carries the last fine mist of the rain through the light. Her blonde hair falls forward past her cheek as she leans toward the shoe, and tiny drops shake loose from the laces onto the ground. Leave empty space in the upper left of the frame for text. Intense cinematic lighting, highly detailed anime art style, tender quiet night atmosphere. the character's outfits : profile view, from side, blue eyes, tareme, blonde hair, medium hair, blunt bangs, blue butterfly hairpin, gentle smile, looking down, white shirt, pink bowtie, large breasts, navy pleated skirt, black socks, brown loafers, kneeling, on one knee.
 ```
 
 ### IL14b — 올려다보는 애슐리 (차분) · 컷 39 「ここにいてくださいね」
@@ -137,16 +151,21 @@ A bust shot from above of a gentle anime girl crouching on a wet street at night
 
 ## Final Chorus
 
-### IL15 ★ — 아침 햇살, 나비 무리, 최고의 미소 · 컷 43–46 (메인 키 비주얼)
+### IL15 ★ — 아침 강둑, 나비 무리, 최고의 미소 · 컷 43–46 (메인 키 비주얼)
+
+> 수정: 처음 보는 언덕 → **IL07(노을)·IL12(새벽)과 같은 강둑의 아침**. 「같은 장소, 노을 → 새벽 → 아침」으로 시간이 흐른 걸 보여 줌.
 
 ```
-A medium shot at eye level of a gentle anime girl standing in a field of morning light on a hill, laughing brightly at the viewer with a blush, her hands clasped happily in front of her chest. Hundreds of blue butterflies burst up from the grass around her and spiral into the clear pale-blue sky. The morning sun pours in from behind her and fills the air with drifting golden motes. The rush of wings lifts her blonde hair and skirt and sends flower petals whirling past her. Leave empty space at the top center of the frame for large lyric text. Intense cinematic lighting, highly detailed anime art style, radiant hopeful morning atmosphere. the character's outfits : blue eyes, tareme, blonde hair, medium hair, blunt bangs, blue butterfly hairpin, smile, open mouth, blush, looking at viewer, hands clasped, white shirt, pink bowtie, large breasts, navy pleated skirt.
+A medium shot at eye level of a gentle anime girl standing on the same grassy riverside embankment in the early morning, laughing brightly at the viewer with a blush, her hands clasped happily in front of her chest. Behind her, the wide river sparkles under the rising sun, with the familiar low town, utility poles and a distant bridge along the far bank. Hundreds of blue butterflies burst up from the grass along the embankment and spiral into the clear pale-blue sky. The morning sun pours in from behind her and fills the air with drifting golden motes. The rush of wings lifts her blonde hair and skirt and scatters glittering dew from the grass. Leave empty space at the top center of the frame for large lyric text. Intense cinematic lighting, highly detailed anime art style, radiant hopeful morning atmosphere. the character's outfits : blue eyes, tareme, blonde hair, medium hair, blunt bangs, blue butterfly hairpin, smile, open mouth, blush, looking at viewer, hands clasped, white shirt, pink bowtie, large breasts, navy pleated skirt.
 ```
 
-### IL16 — 나란히 선 뒷모습, 하늘이 풀려 나감 · 컷 47–48
+### IL16 — 아침의 육교, 「봐요」 하고 세상을 가리키는 애슐리 · 컷 47–48
+
+> 수정: 나란히 선 뒷모습(연인처럼 보임) → **시청자 시점(POV)**. 「あなた」를 그리지 않고, 몇 걸음 앞에서 돌아보며 하늘을 가리키는 애슐리만.
+> 장소는 **IL04의 육교**. 1절에서는 애슐리가 혼자 위에서 내려다봤던 곳에, 마지막엔 「あなた」도 같이 올라와 있다 = 같은 높이에 섰다는 의미.
 
 ```
-A wide shot from behind of two people standing side by side on a hilltop in the morning, a blonde anime girl and a person in a gray hoodie, looking out over a wide town beneath an endless sky. The sky above them is unraveling like loosened threads of colored light, pale blue, gold and soft pink strands drifting apart and spreading across the horizon. A gentle morning wind sweeps up the hill and carries the glowing threads over the town. The grass bends around their feet and her blonde hair streams toward the hoodie person's shoulder. Leave empty space in the upper center of the frame for text. Intense cinematic lighting, highly detailed anime art style, liberating morning atmosphere. the character's outfits : 2 people, from behind, blonde hair, medium hair, blue butterfly hairpin, white shirt, navy pleated skirt, black socks, loafers, 1other, androgynous, short dark hair, gray hoodie, sneakers.
+A wide POV shot at eye level from the walkway of a pedestrian overpass in the morning, the viewer standing on the bridge. A few steps ahead, a gentle anime girl leans back against the railing, turns toward the viewer and spreads one arm out toward the wide town and sky behind her, as if saying "look". The sky above the town is unraveling like loosened threads of colored light, pale blue, gold and soft pink strands drifting apart and spreading across the horizon. A gentle morning wind sweeps across the overpass and carries the glowing threads over the rooftops. Her blonde hair and skirt stream sideways in the wind, and the railing gleams in the fresh sunlight. Leave empty space in the upper center of the frame for text. Intense cinematic lighting, highly detailed anime art style, liberating morning atmosphere. the character's outfits : blue eyes, tareme, blonde hair, medium hair, blunt bangs, blue butterfly hairpin, smile, looking at viewer, outstretched arm, white shirt, pink bowtie, large breasts, navy pleated skirt, black socks, loafers, pov.
 ```
 
 ## Outro
@@ -161,7 +180,7 @@ A low-angle ground-level side shot of two pairs of feet walking side by side alo
 
 ## 생성 체크리스트
 
-- [ ] 「あなた」의 회색 후드·어두운 코트·짧은 검은 머리가 IL02·03·05·13·14·16·17에서 통일됐는지
+- [ ] 「あなた」의 회색 후드·어두운 코트(또는 긴 바지)가 IL02·03·04b·05·13·14·17에서 통일됐는지
 - [ ] 미러 쌍(02↔08, 03↔09, 05↔10)의 구도가 겹쳐 보이는지 (리졸브에서 디졸브로 확인)
 - [ ] 문자 자리(여백)가 남아 있는지
 - [ ] 애슐리의 나비 머리핀이 보이는 컷에서 빠지지 않았는지
