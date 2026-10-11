@@ -231,7 +231,6 @@ A wide POV shot at eye level from the walkway of a pedestrian overpass in the mo
 A low-angle ground-level side shot of two pairs of feet walking side by side along a sunny sidewalk on a clear afternoon: a pair of sneakers with neatly tied laces and a pair of loafers with black socks, stepping in matching rhythm. Bright soft sunlight filters through roadside trees and dapples the pavement with moving leaf shadows. A light breeze sends a few fresh green leaves tumbling along the ground beside them. The neat bows of the shoelaces bounce with each step, and small pebbles skip away from their feet. Leave empty space in the upper half of the frame for credits. Intense cinematic lighting, highly detailed anime art style, gentle peaceful daytime atmosphere. the character's outfits : feet only, two people, sneakers, tied shoelaces, black socks, loafers.
 ```
 
----
 
 ### OUT01 — (Outro) 나비 키링이 달린 가방 · 컷 49b (IL02와 같은 구도, 낮)
 
