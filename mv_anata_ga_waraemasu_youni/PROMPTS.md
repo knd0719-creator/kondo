@@ -31,6 +31,18 @@ A wide shot at eye level of an empty residential street on the way home at dusk.
 
 > 컷 50(Outro 낮 버전)은 리졸브 색보정으로 처리. 따로 그릴 경우 `at dusk` → `on a bright clear afternoon`, `dusty orange` → `soft white`, 마지막을 `gentle peaceful daytime atmosphere`로 교체.
 
+### IN01 — (Intro) 바람에 날리는 금발과 나비 머리핀 · 컷 02b
+
+```
+An extreme close-up from the side of the back of a girl's head at sunset, face out of frame, showing only her blonde hair and a blue butterfly hairpin catching the golden light. Beyond her hair, the out-of-focus town and pedestrian overpass glow in dusky orange bokeh. A warm evening wind blows her hair across the frame in soft glowing strands, and tiny motes of light drift through the air. A single real blue butterfly lifts off from beside the hairpin and flutters upward, its wings shimmering with light. Leave empty space in the upper part of the frame. Intense cinematic lighting, highly detailed anime art style, quiet anticipatory twilight atmosphere. the character's outfits : from side, faceless, head out of frame, blonde hair, medium hair, blue butterfly hairpin.
+```
+
+### IN02 — (Intro) 해 질 녘 마을 전경, 육교 위 작은 실루엣 · 컷 03 (타이틀 배경)
+
+```
+A very wide establishing shot at eye level of a small quiet town at dusk seen from across a river, with low houses, utility poles and a long pedestrian overpass crossing a road in the middle distance. On the overpass, a tiny silhouette of a girl leans on the railing, too small to see her face, backlit by the setting sun. The sky is huge and layered from burning orange at the horizon to deep blue above, with thin clouds drifting. A warm evening wind ripples the river surface and bends the riverside grass in soft waves. The sun's reflection stretches across the water in a long trembling line toward the viewer. Leave large empty space in the upper sky for the title text. Intense cinematic lighting, highly detailed anime art style, nostalgic twilight atmosphere. the character's outfits : silhouette, tiny figure, blonde hair.
+```
+
 ### IL02 — 가방에 한숨을 넣는 손 · 컷 04–05 (IL08의 미러 원본)
 
 ```
@@ -217,6 +229,20 @@ A wide POV shot at eye level from the walkway of a pedestrian overpass in the mo
 
 ```
 A low-angle ground-level side shot of two pairs of feet walking side by side along a sunny sidewalk on a clear afternoon: a pair of sneakers with neatly tied laces and a pair of loafers with black socks, stepping in matching rhythm. Bright soft sunlight filters through roadside trees and dapples the pavement with moving leaf shadows. A light breeze sends a few fresh green leaves tumbling along the ground beside them. The neat bows of the shoelaces bounce with each step, and small pebbles skip away from their feet. Leave empty space in the upper half of the frame for credits. Intense cinematic lighting, highly detailed anime art style, gentle peaceful daytime atmosphere. the character's outfits : feet only, two people, sneakers, tied shoelaces, black socks, loafers.
+```
+
+---
+
+### OUT01 — (Outro) 나비 키링이 달린 가방 · 컷 49b (IL02와 같은 구도, 낮)
+
+```
+A close-up from above of a pair of relaxed hands opening a worn canvas shoulder bag on a bright clear afternoon, hands focus, face out of frame. A small blue butterfly keyring now hangs from the bag's zipper and sways gently, catching the sunlight. A crumpled notebook, a phone and neatly wound earphones are visible in the bag. Soft white sunlight pours in from the side, and a fresh breeze ruffles the loose sleeve. The keyring's tiny blue reflection dances across the canvas of the bag. Leave empty space on the right side of the frame for credits. Intense cinematic lighting, highly detailed anime art style, light peaceful afternoon atmosphere. the character's outfits : hands only, gray hoodie sleeve, canvas shoulder bag, blue butterfly keyring.
+```
+
+### OUT02 — (Outro) 등을 편 「あなた」 · 컷 49c (IL03과 같은 구도, 낮)
+
+```
+A wide shot from behind of a person standing at the same pedestrian crossing on a bright clear afternoon, waving one hand high to two small friends waving back from the far side of the street. The person's face is not visible, but their back is straight and their shoulders are relaxed and open. The traffic light glows green, and soft sunlight fills the street with clean white light. A fresh breeze pushes the hem of the loose coat and sends a few green leaves tumbling across the white stripes. The person's short shadow falls neatly at their feet. Leave empty space on the left side of the frame for credits. Intense cinematic lighting, highly detailed anime art style, bright hopeful afternoon atmosphere. the character's outfits : 1other, from behind, faceless, androgynous, short dark hair, gray hoodie, dark long coat, canvas shoulder bag, sneakers.
 ```
 
 ---
