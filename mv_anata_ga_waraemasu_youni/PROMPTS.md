@@ -232,10 +232,12 @@ A low-angle ground-level side shot of two pairs of feet walking side by side alo
 ```
 
 
-### OUT01 — (Outro) 나비 키링이 달린 가방 · 컷 49b (IL02와 같은 구도, 낮)
+### OUT01 — (Outro) 커튼을 여는 「あなた」, 아침 햇살이 드는 방 · 컷 49b (IL05와 같은 방, 아침)
+
+> IL05(어두운 방에서 무릎을 안고 있던 밤)의 아침 버전. 같은 방, 같은 창인데 이번엔 「あなた」가 일어서서 커튼을 활짝 열고, 창으로 파란 나비가 들어옴.
 
 ```
-A close-up from above of a pair of relaxed hands opening a worn canvas shoulder bag on a bright clear afternoon, hands focus, face out of frame. A small blue butterfly keyring now hangs from the bag's zipper and sways gently, catching the sunlight. A crumpled notebook, a phone and neatly wound earphones are visible in the bag. Soft white sunlight pours in from the side, and a fresh breeze ruffles the loose sleeve. The keyring's tiny blue reflection dances across the canvas of the bag. Leave empty space on the right side of the frame for credits. Intense cinematic lighting, highly detailed anime art style, light peaceful afternoon atmosphere. the character's outfits : hands only, gray hoodie sleeve, canvas shoulder bag, blue butterfly keyring.
+A wide shot at eye level of the same small bedroom in the morning, seen from behind a person standing at the window and pulling the curtains wide open with both hands, their face not visible. Bright morning sunlight floods into the room, washing over the desk, the bed and the floor where long shadows of the window frame stretch toward the viewer. The desk lamp is switched off, and a canvas bag sits packed and ready by the door. A fresh morning breeze billows the curtains inward, and a single blue butterfly flutters in through the open window into the light. Dust motes sparkle and swirl in the sunbeams around the person's raised arms. Leave empty space on the right side of the frame for credits. Intense cinematic lighting, highly detailed anime art style, fresh hopeful morning atmosphere. the character's outfits : 1other, from behind, faceless, androgynous, short dark hair, gray hoodie, sweatpants, arms up, opening curtains.
 ```
 
 ### OUT02 — (Outro) 등을 편 「あなた」 · 컷 49c (IL03과 같은 구도, 낮)
