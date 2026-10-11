@@ -67,17 +67,27 @@ A wide shot at eye level of a small dark bedroom at night, where a lone person s
 
 ## Pre-Chorus 1 / Chorus 1
 
-### IL06 — 풀린 신발 끈과 손을 뻗는 애슐리 · 컷 12–15 (14.5초 사용, 고해상도)
+### IL06 — 풀린 신발 끈 / 쭈그려 앉은 애슐리 → **2장으로 분리** · 컷 12–15
 
-```
-A low-angle ground-level POV shot with foreshortening: in the bottom corner of the frame, the viewer's own foot in a worn gray sneaker steps into view, its shoelace untied and lying loose on the warm asphalt. In front of the viewer, a gentle anime girl crouches down and reaches one hand toward the viewer's untied lace, looking up with a soft smile. She wears her own polished brown loafers with black socks, neatly together under her. The golden sunset fills the background with a hazy glow and lens flare. A light breeze lifts the loose end of the shoelace and rolls a few small petals along the ground. Her blonde hair falls forward over her shoulder as she leans in, and her skirt pools around her crouching knees. Leave empty space along the bottom center of the frame for text. Intense cinematic lighting, highly detailed anime art style, warm gentle sunset atmosphere. the character's outfits : blue eyes, tareme, blonde hair, medium hair, blunt bangs, blue butterfly hairpin, soft smile, looking at viewer, white shirt, pink bowtie, large breasts, navy pleated skirt, black socks, brown loafers, squatting, pov.
-```
-
-> 그래도 애슐리 발에 스니커가 나오면 **플랜 B**: 스니커를 프롬프트에서 완전히 빼고, 풀린 끈을 애슐리 자신의 로퍼로 바꾼 버전. 「あなた」의 발은 리졸브에서 IL14의 스니커를 잘라 얹거나 생략.
+> 수정 이유: 한 장에 「애슐리 + 다른 사람의 신발」을 같이 넣으면 모델이 신발을 애슐리에게 신기거나 구도가 무너짐.
+> → **애슐리가 나오는 그림에는 발을 아예 안 넣고**, **신발 그림에는 애슐리를 손만** 넣는 식으로 나눔. 각 그림의 요소가 단순해져서 안정적으로 나와요.
 >
-> ```
-> A low-angle ground-level shot of a gentle anime girl crouching down on the warm asphalt at sunset, looking up at the viewer with a soft smile while reaching one hand toward the viewer, as if offering to help. Beside her, a long loose ribbon of untied lace trails on the ground in the foreground. The golden sunset fills the background with a hazy glow and lens flare. A light breeze lifts the loose end of the lace and rolls a few small petals along the ground. Her blonde hair falls forward over her shoulder as she leans in, and her skirt pools around her crouching knees. Leave empty space along the bottom center of the frame for text. Intense cinematic lighting, highly detailed anime art style, warm gentle sunset atmosphere. the character's outfits : blue eyes, tareme, blonde hair, medium hair, blunt bangs, blue butterfly hairpin, soft smile, looking at viewer, white shirt, pink bowtie, large breasts, navy pleated skirt, black socks, brown loafers, squatting.
-> ```
+> | 컷 | 가사 | 사용 |
+> |---|---|---|
+> | 12–13 | 急がなくていいですよ / 今日は休んでいいですよ | IL06b (애슐리 얼굴) |
+> | 14–15 | ほどけた靴のひもを / 結びなおすみたいに | IL06a (풀린 끈 + 애슐리의 손) |
+
+#### IL06a — 풀린 끈과 다가오는 애슐리의 손 (신발 1켤레만)
+
+```
+A close-up at ground level of a single worn gray sneaker standing on warm asphalt at sunset, its shoelace untied and trailing loosely on the ground, the hem of long dark pants just above it. From the top right of the frame, a slender hand with a white shirt cuff reaches gently down toward the loose lace, fingertips about to pick it up. The golden sunset behind fills the background with hazy glow and soft lens flare. A light breeze lifts the loose end of the lace and rolls a few small petals across the ground. The long shadow of the reaching hand falls across the sneaker's toe. Leave empty space along the bottom center of the frame for text. Intense cinematic lighting, highly detailed anime art style, warm gentle sunset atmosphere. the character's outfits : hand only, white shirt cuff, sneaker, untied shoelace, long dark pants.
+```
+
+#### IL06b — 쭈그려 앉아 올려다보며 손을 내미는 애슐리 (발 없음)
+
+```
+A bust shot from above, POV, of a gentle anime girl crouching down on the street at sunset right in front of the viewer, looking up at the viewer with a soft, reassuring smile as she reaches one open hand gently toward the viewer's feet, outside the bottom of the frame. The golden sunset behind her fills the background with a hazy glow and lens flare, and the asphalt around her shines warm orange. A light breeze carries a few small petals past her face. Her blonde hair falls forward over her shoulder as she leans in, and the sunlight makes the edges of her hair glow. Leave empty space along the bottom center of the frame for text. Intense cinematic lighting, highly detailed anime art style, warm gentle sunset atmosphere. the character's outfits : blue eyes, tareme, blonde hair, medium hair, blunt bangs, blue butterfly hairpin, soft smile, looking up, looking at viewer, white shirt, pink bowtie, large breasts.
+```
 
 ### IL07 ★ — 노을 역광 키 비주얼 · 컷 16–19 (썸네일 후보)
 
@@ -105,7 +115,7 @@ A wide shot from behind of a lone anime girl standing at a pedestrian crossing o
 A bust shot in three-quarter view of a gentle anime girl under a transparent umbrella on a rainy night, glancing back over her shoulder toward the viewer with a fragile smile that does not quite reach her eyes. Behind her, the red traffic light and city lights blur into soft bokeh. Rain streams down the umbrella and splashes in tiny crowns at its edge. Damp strands of blonde hair cling to her cheek, and drops of water slide down the clear umbrella between her and the viewer. Leave empty space on the left side of the frame. Intense cinematic lighting, highly detailed anime art style, bittersweet rainy night atmosphere. the character's outfits : blue eyes, tareme, blonde hair, medium hair, blunt bangs, blue butterfly hairpin, soft smile, teary eyes, looking back, white shirt, pink bowtie, large breasts, transparent umbrella.
 ```
 
-### IL10 — 산속 저택, 나무로 된 자기 방 책상에 엎드린 애슐리 · 컷 24–27 (IL05와 같은 구도)
+### IL10 — 산속 저택, 나무로 된 자기 방 책상에 엎드린 애슐리 · 컷 24 (IL05와 같은 구도, 와이드)
 
 > 수정: 애슐리는 **산속의 저택**에 산다 → 도시 야경·현대적인 방 삭제. 원목 기반의 편안한 방으로 변경.
 > 구도(왼쪽 인물·책상 스탠드·오른쪽 창)는 IL05와 맞춰서 미러 연출은 유지. 「편안한 방인데 정작 본인은 지쳐 쓰러져 있다」는 대비가 포인트.
@@ -113,6 +123,35 @@ A bust shot in three-quarter view of a gentle anime girl under a transparent umb
 
 ```
 A wide shot at eye level of a cozy old wooden bedroom in a mansion deep in the mountains at night, where a lone anime girl has fallen asleep at an antique wooden desk, resting her head on her folded arms beside towering stacks of thick medical textbooks and workbooks. The room is built of warm honey-colored timber, with exposed wooden beams, a wooden bookshelf, a soft knitted blanket draped over an armchair and a small potted plant on the windowsill. The only light is an old brass desk lamp, and its dim warm circle of light falls on scattered notes covered in careful handwriting. Through the tall wooden-framed window, rain streaks down the glass over dark pine forest and misty mountain ridges, with no butterfly outside. A thin gap in the window lets the lace curtain sway gently, and the pages of an open textbook flutter in the draft. Her pen has rolled to the edge of the desk, and a loose page has slipped onto the wooden floor. Leave empty space on the right side of the frame for vertical text. Intense cinematic lighting, highly detailed anime art style, quiet rainy mountain night atmosphere. the character's outfits : blonde hair, medium hair, blue butterfly hairpin, closed eyes, white shirt, pink bowtie, navy pleated skirt, black socks.
+```
+
+> **구도 배분 (컷 24–27)**: 와이드 1장만으로 20초를 버티면 단조로워서, 미러는 첫 컷만 지키고 나머지는 구도를 바꿔요.
+>
+> | 컷 | 가사 | 사용 | 의도 |
+> |---|---|---|---|
+> | 24 | がんばれなかった日も | IL10 (와이드) | IL05와 겹쳐 보이는 미러 컷 |
+> | 25 | わたしにもあるんですよ | IL10c (얼굴 클로즈업) | 「わたし」의 얼굴. 처음으로 애슐리가 약한 모습을 보임 |
+> | 26 | 誰にも言えない夜を | IL10d (창밖에서 본 방) | 고립감. 저택 안에서도 혼자 |
+> | 27 | ひとりで越えてきました | IL10e (부감, 책상 위) | 쌓인 공부량 = 넘어온 밤의 무게. 새벽빛이 책상에 닿음 |
+>
+> c·d·e는 필요에 따라 골라 써도 OK (최소 c 하나만 있어도 변화가 생겨요).
+
+### IL10c — 팔에 얼굴을 묻은 애슐리 클로즈업 · 컷 25
+
+```
+A close-up at eye level, face focus, of a gentle anime girl resting her cheek on her folded arms on an antique wooden desk at night, her eyes half open and unfocused, staring at nothing with tired, glistening eyes. A thick medical textbook lies open right in front of her face, its pages blurred in the foreground. The dim warm glow of an old brass desk lamp lights one side of her face, and the rest of the wooden room fades into soft darkness. Rain taps on the window behind her, and its faint moving shadows ripple across her cheek. A single strand of blonde hair has fallen across her face and trembles with each slow breath. Leave empty space on the right side of the frame for vertical text. Intense cinematic lighting, highly detailed anime art style, quiet exhausted night atmosphere. the character's outfits : blue eyes, tareme, blonde hair, medium hair, blunt bangs, blue butterfly hairpin, tired, half-closed eyes, teary eyes, head on arms.
+```
+
+### IL10d — 비 내리는 창밖에서 들여다본 애슐리의 방 · 컷 26
+
+```
+A medium-wide shot from outside, looking in through a tall wooden-framed window of an old mansion deep in the mountains on a rainy night. Inside, in a cozy honey-colored wooden room, a lone anime girl sits slumped at an antique desk under the dim warm light of a brass lamp, small within the window frame. The window is the only warm light in the dark, and wet ivy leaves and pine branches frame the glass. Rain streams down the window pane and blurs the warm interior into soft streaks of light. Raindrops gather on the window ledge and drip steadily from the ivy leaves. Leave empty space on the left side of the frame, in the dark wall beside the window, for vertical text. Intense cinematic lighting, highly detailed anime art style, lonely rainy mountain night atmosphere. the character's outfits : blonde hair, medium hair, blue butterfly hairpin, white shirt, sitting at desk.
+```
+
+### IL10e — 책상 위 부감, 쌓인 책과 새벽빛 · 컷 27
+
+```
+A shot from directly above of an antique wooden desk near dawn, where a gentle anime girl sleeps with her head on her folded arms among towering stacks of medical textbooks, filled notebooks, sticky notes and a cold cup of tea. The brass desk lamp is still on, but the first pale blue light of dawn from the window is beginning to fall across one corner of the desk. A gentle draft from the window turns the pages of an open notebook. The pale dawn light creeps across the papers and reaches the tips of her blonde hair spread over the desk. Leave empty space on the right side of the frame for vertical text. Intense cinematic lighting, highly detailed anime art style, quiet dawn-breaking atmosphere. the character's outfits : from above, blonde hair, medium hair, blue butterfly hairpin, sleeping, head on arms, white shirt.
 ```
 
 ## Pre-Chorus 2 / Chorus 2
