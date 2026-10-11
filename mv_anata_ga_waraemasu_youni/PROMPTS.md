@@ -182,6 +182,42 @@ A medium shot in three-quarter view of a gentle anime girl standing on a grassy 
 
 ## Bridge
 
+
+### IL12 대체안 (A–D) — 새벽 강둑, 다른 앵글
+
+> 하나만 골라 IL12 대신 써도 되고, Chorus 2의 네 줄(컷 32–35)에 **한 장씩 나눠** 써도 돼요. 네 장을 다 쓰면 「멀리 → 가까이」로 거리가 좁혀지는 흐름이 돼요.
+>
+> | 안 | 앵글 | 추천 컷 |
+> |---|---|---|
+> | A | 아래에서 올려다봄 (from below) | 32 「少しずつでいいですよ」 |
+> | B | 옆모습, 앉아서 (profile view) | 33 「また笑えますように」 |
+> | C | 등 뒤 어깨 너머 (over the shoulder) | 34 「その日が来るまで」 |
+> | D | 얼굴 클로즈업, 비스듬히 (three-quarter) | 35 「ずっとそばにいますよ」 |
+
+#### IL12-A — 둑 위의 애슐리를 아래에서 올려다봄
+
+```
+A cowboy shot from below of a gentle anime girl standing at the top of a grassy riverside embankment just before dawn, looking down at the viewer on the slope below with a soft, encouraging smile and offering one open hand. Behind her, a huge sky spreads in layers of deep violet, lavender and pale pink, with the last few stars still faint above her head. A cool morning wind rushes down the slope, bending the tall grass toward the viewer in silver waves and scattering dew into the air. Her blonde hair and skirt stream sideways against the brightening sky. Leave empty space in the lower center of the frame for large lyric text. Intense cinematic lighting, highly detailed anime art style, fresh gentle dawn atmosphere. the character's outfits : blue eyes, tareme, blonde hair, medium hair, blunt bangs, blue butterfly hairpin, soft smile, looking down, looking at viewer, outstretched hand, white shirt, pink bowtie, large breasts, navy pleated skirt.
+```
+
+#### IL12-B — 강둑 경사에 앉은 애슐리의 옆모습
+
+```
+A medium shot in profile view of a gentle anime girl sitting alone on the grassy slope of a riverside embankment just before dawn, hugging her knees loosely and gazing at the faint line of light rising over the far bank, a quiet smile on her lips. The river below reflects the lavender and pink sky like a mirror, with thin mist drifting over the water. A cool morning breeze ripples across the river and sways the grass around her in slow waves. Strands of her blonde hair lift and drift toward the light, and tiny dew drops tremble on the grass beside her hand. Leave empty space on the left side of the frame for lyric text. Intense cinematic lighting, highly detailed anime art style, quiet hopeful dawn atmosphere. the character's outfits : profile view, from side, blue eyes, tareme, blonde hair, medium hair, blunt bangs, blue butterfly hairpin, soft smile, sitting, hugging knees, white shirt, pink bowtie, large breasts, navy pleated skirt.
+```
+
+#### IL12-C — 어깨 너머로 같이 보는 새벽
+
+```
+A shot from behind over the shoulder of a gentle anime girl standing on a riverside embankment just before dawn, placed on the right side of the frame, watching the first thin line of gold appear over the river and the low town on the far bank. She turns her head slightly back toward the viewer, so only the soft curve of her cheek and a gentle smile are visible. The sky ahead glows from deep violet overhead to pale pink and gold at the horizon, and the river shimmers below. A cool morning wind blows from the river and carries thin mist and a few petals across the bank. Her blonde hair streams back toward the viewer, glowing at the edges in the first light. Leave empty space on the left side of the frame, in the sky, for lyric text. Intense cinematic lighting, highly detailed anime art style, tender anticipating dawn atmosphere. the character's outfits : from behind, over the shoulder, looking back, blonde hair, medium hair, blue butterfly hairpin, soft smile, white shirt.
+```
+
+#### IL12-D — 첫 햇살을 받은 얼굴 클로즈업
+
+```
+A close-up in three-quarter view, face focus, of a gentle anime girl on a riverside embankment at the very moment of dawn, looking straight at the viewer with a soft smile and slightly teary eyes, as if making a quiet promise. The first golden ray of sunlight touches one side of her face, while the other side is still tinted in cool lavender, and the blurred river behind her sparkles in pale pink bokeh. A gentle morning wind drifts tiny glowing dew drops and motes of light across the frame. Loose strands of her blonde hair blow across her cheek and catch the sunlight like thin threads of gold. Leave empty space on the left side of the frame for lyric text. Intense cinematic lighting, highly detailed anime art style, intimate gentle dawn atmosphere. the character's outfits : blue eyes, tareme, blonde hair, medium hair, blunt bangs, blue butterfly hairpin, soft smile, teary eyes, looking at viewer.
+```
+
 ### IL13 — 웅덩이에 비친 가로등과 두 사람의 발 (선택) · 컷 36–37
 
 > 수정: 「あなた」 쪽에 **발목까지 덮는 긴 바지**를 명시.
