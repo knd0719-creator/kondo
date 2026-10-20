@@ -1,4 +1,4 @@
-# 일러스트 프롬프트 전체 정리 (콘도상 / 애슐리)
+# 일러스트 프롬프트 전체 정리 (콘도상 / 애슐리 / 레이)
 
 지금까지 제안한 프롬프트를 캐릭터·시리즈별로 정리한 파일입니다.
 
@@ -6,7 +6,7 @@
 
 - 셀 쉐이딩 헤더와 프롬프트 형식은 유지합니다.
 - `slight vignette`는 모든 프롬프트에서 제거했습니다.
-- 애슐리 태그줄에는 `large breasts`를 항상 넣었습니다 (상의 태그 바로 뒤, 상의가 안 보이는 클로즈업은 맨 끝).
+- 애슐리 태그줄에는 `large breasts`를 항상 넣었습니다 (상의 태그 바로 뒤, 상의가 안 보이는 클로즈업은 맨 끝). 레이에는 넣지 않습니다.
 - 구도에 따라 화면에 안 나오는 부위의 외모 태그는 뺐습니다.
 - 후처리 문장(일반): `anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.`
 - 후처리 문장(모션그래픽): `subtle chromatic aberration on edges, crisp rim lighting.`
@@ -22,8 +22,17 @@
 | A-2 | 애슐리 2차 | 6 |
 | A-MG1 | 애슐리 모션그래픽 1차 | 4 |
 | A-MG2 | 애슐리 모션그래픽 2차 | 6 |
+| R-1 | 레이 일반 1차 (선도부 기본 복장) | 10 |
+| R-MG1 | 레이 모션그래픽 1차 | 10 |
+| R-2 | 레이 일반 2차 | 5 |
+| R-MG2 | 레이 모션그래픽 2차 | 5 |
+| R-J | 레이 유도복 (일반 + 그라운드 기술) | 5 |
+| R-JMG | 레이 유도복 모션그래픽 | 2 |
+| R-F | 레이 패스트푸드 알바 (일반) | 2 |
+| R-FMG | 레이 패스트푸드 알바 모션그래픽 | 2 |
+| R-KMG | 레이 패스트푸드 주방 모션그래픽 | 3 |
 
-합계 38개 (K-B의 난간 슬라이딩은 A/B 두 안을 모두 수록).
+합계 82개 (콘도상 16, 애슐리 22, 레이 44). K-B의 난간 슬라이딩은 A/B 두 안을 모두 수록.
 
 ---
 
@@ -289,6 +298,302 @@ blue eyes, tareme, blonde hair, medium hair, blunt bangs, blue butterfly hairpin
 ```
 flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of royal blue, red, white and a single yellow accent, white sticker-style outline around the character. A cowboy shot from a low angle of a shy anime girl in a school sports day outfit, holding a megaphone up to her mouth with both hands and shouting an earnest but small-voiced cheer, her cheeks bright red and her eyes squeezed shut with effort. Concentric thin-line sound-wave circles in red and yellow radiate out from the megaphone toward the viewer, while flat triangular pennant flags in blue and red zigzag across the top of the frame. A large white circle sits behind her head, the megaphone breaking out in front of it, and halftone dots and abstract typography-like bars fill the royal blue background. Her white headband tail and blonde hair flutter, with an offset flat red drop shadow. Bold, energetic composition. subtle chromatic aberration on edges, crisp rim lighting.
 blue eyes, tareme, blonde hair, medium hair, blunt bangs, blue butterfly hairpin, cowboy shot, shy, eyes closed, shouting, blush, holding megaphone, white headband, white gym shirt, large breasts, navy shorts, high contrast, vibrant Japanese anime art style.
+```
+
+---
+
+# 레이 (玲たん)
+
+성격 설정: 선도부. 무표정하고 냉정한 츳코미 담당. 콘도상이 일으킨 소동을 정리하는 쪽이고, 가끔 틈을 보이는 반전 매력(들킨 간식, 드문 미소)이 있음.
+`petite`는 카우보이샷 이상에서만 넣었고, 바스트샷·미디엄샷·클로즈업에서는 뺐습니다. `large breasts`는 애슐리 전용 규칙이라 레이에는 넣지 않았습니다.
+레이 모션그래픽 문법: 직선, 격자, 정중앙 대칭, 조준선/경고 사선/체크/도장 같은 각진 도형, 남색·흰색·완장의 빨강 + 강조색 1개, 무표정한 레이 vs 주변의 혼돈 대비.
+
+## R-1. 레이 일반 1차 (선도부 기본 복장)
+
+### R1-1. 전신 / 아침 교문 복장 검사
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A full body shot from a low angle of a stern, petite anime girl prefect standing in the middle of the school gate on a crisp morning, arms crossed with a clipboard tucked under one arm, staring flatly at the viewer with an expressionless face as if inspecting every uniform that passes. Her red armband stands out sharply against her navy jacket. A gust of wind sweeps fallen ginkgo leaves across the stone path and flutters her short dark hair and skirt hem, and her long hard-edged shadow stretches across the ground toward the viewer. Clean morning light and a simple school gate background in flat colors. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+full body, from below, expressionless, arms crossed, holding clipboard, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, petite, black pantyhose, loafers, high contrast, vibrant Japanese anime art style.
+```
+
+### R1-2. 바스트샷 / 압수 ("내놔")
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A bust shot from slightly below of a stern anime girl prefect holding one open palm straight toward the camera with strong foreshortening, demanding that the viewer hand over a contraband item. Her face is expressionless, her purple eyes are narrowed, and one eyebrow is raised just slightly in cold disapproval. Behind her, a classroom after school is filled with warm afternoon light that casts sharp, flat shadows of the window frames, and a confiscation box overflowing with snacks and manga sits on a desk. Her short dark hair sways slightly as she steps forward, and the red armband on her sleeve catches the light. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+bust shot, upper body, from below, expressionless, narrowed eyes, outstretched hand, foreshortening, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, high contrast, vibrant Japanese anime art style.
+```
+
+### R1-3. 얼굴 클로즈업 / 깊은 한숨 (또 콘도상)
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A close-up of an anime girl's face at eye level, pressing the palm of one hand against her forehead with a deep, exhausted sigh. Her purple eyes are half-closed, her brows are drawn together in a flat frown, and a single large sweat drop slides down the side of her face in simple flat shading. A faint puff of breath escapes her lips, her short dark hair sways slightly, and bright light from a corridor window casts a clean, hard-edged shadow across half of her face. The background is a simple, softly blurred pale hallway in flat colors. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+close-up, face focus, exasperated, half-closed eyes, frown, hand on forehead, sweatdrop, sigh, dark short hair, purple eyes, high contrast, vibrant Japanese anime art style.
+```
+
+### R1-4. 카우보이샷 / 계단 "뛰지 마!"
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A cowboy shot from slightly below, at the foot of an indoor school stairwell, of a stern petite anime girl prefect standing on the landing with one arm stretched out and her index finger pointing straight down at the viewer. Her brows are drawn together in a sharp frown and her purple eyes glare with cold authority. A "NO RUNNING" sign hangs on the concrete wall beside her, and a sudden gust from someone dashing past makes loose papers swirl through the air and her short dark hair flutter. Bright indoor daylight from a hallway window creates sharp, clean shadow boundaries on the metal handrail and steps. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+cowboy shot, from below, frown, pointing finger, scolding, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, petite, black pantyhose, high contrast, vibrant Japanese anime art style.
+```
+
+### R1-5. 전신 / 해질녘 복도 순찰 (조용한 장면)
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A full body shot from the side, in profile view, of a petite anime girl prefect walking alone down a long empty school corridor at dusk, her hands clasped behind her back and her gaze fixed calmly ahead. Her expression is serious and quiet, and her red armband glows faintly in the orange light. Tall windows on one side cast long, sharp window-frame shadows across the polished floor, a curtain stirs in the breeze, and a few dust motes float in the beams. The echo of her steps seems to fill the silence, and her short dark hair moves slightly as she passes each window. Simple, clean hallway background in flat orange and blue tones. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+full body, profile view, walking, hands behind back, expressionless, calm, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, petite, black pantyhose, loafers, high contrast, vibrant Japanese anime art style.
+```
+
+### R1-6. 바스트샷 / 선도부실에서 몰래 간식 (들켜서 당황)
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A bust shot at eye level of an anime girl prefect sitting at her desk in the prefect room, caught mid-bite with a big cream puff in her mouth just as the door opens. Her cheeks are puffed, a dab of cream sits on her cheek, her purple eyes are wide, and a deep blush spreads across her face as she freezes in surprise, still holding the pastry in both hands. Neat stacks of paperwork and a teacup sit on the desk, and warm light from the window casts clean, hard-edged shadows across the room. A few crumbs scatter from the pastry as she flinches, and her short dark hair bounces slightly. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+bust shot, upper body, eye level, flustered, blush, wide eyes, puffed cheeks, eating cream puff, cream on cheek, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, high contrast, vibrant Japanese anime art style.
+```
+
+### R1-7. 카우보이샷 / 비 오는 날 마지못해 우산 씌워주기 (츤데레)
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A cowboy shot from a three-quarter angle of a petite anime girl prefect standing in the rain at the school entrance, tilting a large navy umbrella toward the viewer while looking away with a pout and a faint blush. Her own shoulder is getting wet because she holds the umbrella over the viewer instead, and her tone seems to say "it's only because of the rules". Raindrops fall in clean diagonal lines, drops run down the umbrella as flat glossy highlights, and puddles on the ground reflect the warm school lights in simple flat shapes. Her short dark hair is slightly damp, and the red armband stands out against her wet navy jacket. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+cowboy shot, three-quarter view, looking away, pout, blush, holding umbrella, tilted umbrella, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, petite, black pantyhose, high contrast, vibrant Japanese anime art style.
+```
+
+### R1-8. 전신 / 궁도부 활 쏘는 순간 (의상 변경)
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A full body shot from the side of a petite anime girl in a white kyudo uniform and black hakama at the moment of releasing an arrow in a quiet archery range. Her posture is perfectly straight, her purple eyes are calm and focused on the distant target, and her expression is expressionless and serene. The bowstring snaps forward, a single clean speed line traces the arrow's path, and the wind from the release ruffles her short dark hair and the sleeves of her uniform. Fallen leaves drift across the wooden floor, and soft afternoon light casts sharp, hard-edged shadows of the dojo pillars in flat colors. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+full body, from side, kyudo, drawing bow, releasing arrow, focused, expressionless, dark short hair, purple eyes, white kyudo uniform, black hakama, petite, white tabi, high contrast, vibrant Japanese anime art style.
+```
+
+### R1-9. 미디엄샷 / 겨울 교문, 핫팩 내밀기
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A medium shot, waist up, from a slightly side angle of an anime girl prefect in a navy duffle coat and a white scarf standing at the school gate on a snowy winter morning, holding out a small hand warmer toward the viewer without quite meeting their eyes. Her face is nearly expressionless, but her cheeks and nose are tinted red from the cold and a faint blush betrays her embarrassment. A white breath cloud drifts upward, snowflakes fall as clean, flat white dots, and the red armband is pinned neatly on her coat sleeve. Her short dark hair and scarf end sway in the cold wind, and the snow-covered gate casts sharp pale-blue shadows. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+medium shot, waist up, expressionless, blush, looking away, outstretched hand, holding hand warmer, white breath, dark short hair, purple eyes, navy duffle coat, white scarf, red prefect armband, white shirt, pink bowtie, navy pleated skirt, high contrast, vibrant Japanese anime art style.
+```
+
+### R1-10. 전신 / 호루라기 불며 전력 추격 (대각선 구도)
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A dynamic full body shot from a low dutch angle of a petite anime girl prefect sprinting full speed down a school hallway, a whistle clenched between her teeth, one arm pointing straight ahead at an unseen culprit and the other clutching her clipboard. Her purple eyes burn with fierce irritation and her brows are knit in an angry frown. Her short dark hair and skirt streak backward, the red armband flashes, and papers and dust fly up in her wake. Bright light from the hallway windows casts sharp, clean shadow boundaries on the floor, and long white speed lines streak along the corridor walls. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+full body, dutch angle, running, whistle in mouth, pointing forward, angry, frown, holding clipboard, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, petite, black pantyhose, loafers, high contrast, vibrant Japanese anime art style.
+```
+
+## R-MG1. 레이 모션그래픽 1차 (카우보이샷)
+
+### RMG1-1. 조준선 한가운데 (정면 지적)
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of deep navy, white, red and a single yellow accent, white sticker-style outline around the character. A cowboy shot from a straight front angle of a petite anime girl prefect standing perfectly centered, one arm extended with her index finger pointing straight at the viewer with strong foreshortening, her face expressionless and her brows drawn in a flat frown. Behind her, concentric targeting-reticle circles and thin crosshair lines in white and red lock onto the viewer's position, with small tick marks around the rings. Straight grid lines and abstract typography-like bars frame the navy background, and her red armband is the brightest point in the frame. Rigid symmetrical composition with an offset flat red drop shadow. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, front view, expressionless, frown, pointing at viewer, foreshortening, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, black pantyhose, high contrast, vibrant Japanese anime art style.
+```
+
+### RMG1-2. 경고 사선 앞 팔짱 (엄격한 위압감)
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of black, warning yellow, white and a single red accent, white sticker-style outline around the character. A cowboy shot from a low angle of a petite anime girl prefect standing with her arms crossed and her chin slightly raised, looking down at the viewer with cold, expressionless purple eyes. Behind her, diagonal yellow-and-black warning stripes fill the background in tight parallel bands, and a large red circle sits exactly behind her head like a stamp. Thin outlined triangles with exclamation-like shapes, halftone dots and abstract typography-like bars add a graphic layer. Her short dark hair is perfectly still, and a hard-edged flat black drop shadow falls behind her. Bold, imposing composition. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, from below, expressionless, arms crossed, looking down, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, black pantyhose, high contrast, vibrant Japanese anime art style.
+```
+
+### RMG1-3. 정지 손바닥 + 팔각 표지판 (압수)
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of red, white, navy and a single cyan accent, white sticker-style outline around the character. A cowboy shot from slightly below of a petite anime girl prefect thrusting one open palm toward the camera in a flat "stop" gesture, the hand enlarged by strong foreshortening, while her cold, expressionless face stares through the gap beside it. A giant red octagon, drawn like a stop sign without any text, sits behind her, her palm breaking out in front of its edge. Thin outlined hexagons, grid lines and abstract typography-like bars fill the navy background, and a few flat items such as a phone and snack bag tumble in mid-air toward her hand. Offset flat cyan drop shadow. Rigid, forceful composition. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, from below, expressionless, stop gesture, outstretched hand, foreshortening, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, black pantyhose, high contrast, vibrant Japanese anime art style.
+```
+
+### RMG1-4. 호루라기 소리 파장 (방사형 정렬)
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of royal blue, white, red and a single yellow accent, white sticker-style outline around the character. A cowboy shot from a low front angle of a petite anime girl prefect blowing a whistle with her eyes narrowed and her brows knit in sharp authority, one hand raised with a stern pointing finger. Perfectly even concentric sound-wave rings in white and yellow radiate outward from the whistle to the edges of the frame, each ring slightly thicker than the last. Small flat triangles scatter outward like fleeing figures, and straight speed stripes, halftone dots and abstract typography-like bars decorate the royal blue background. Her short dark hair ripples outward from the sound, with an offset flat red drop shadow. Strong radial symmetry. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, from below, blowing whistle, narrowed eyes, frown, pointing finger, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, black pantyhose, high contrast, vibrant Japanese anime art style.
+```
+
+### RMG1-5. 체크리스트 판정 (체크/엑스 도형)
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of cream, navy, mint green and a single red accent, white sticker-style outline around the character. A cowboy shot from a three-quarter angle of a petite anime girl prefect holding a clipboard and a pen, eyes cast sideways in a cold judging glance, one eyebrow slightly lifted as if she just found a violation. Large flat checkmark and cross shapes in mint green and red float in neat rows around her, and a tall list of horizontal lines forms a ruled paper pattern behind her. A large cream rectangle sits behind the clipboard, her pen breaking out in front of its edge, and thin outlined circles, tick marks and abstract typography-like bars add a graphic layer. Offset flat navy drop shadow. Orderly, grid-based composition. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, three-quarter view, side glance, expressionless, raised eyebrow, holding clipboard, holding pen, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, black pantyhose, high contrast, vibrant Japanese anime art style.
+```
+
+### RMG1-6. 소란 속 이마를 짚는 정적 (혼돈 vs 고요)
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of violet, cream, coral and a single navy accent, white sticker-style outline around the character. A cowboy shot at eye level of a petite anime girl prefect standing perfectly still at the exact center of the frame with her palm pressed to her forehead in an exhausted sigh, her purple eyes half-closed and a large flat sweat drop beside her temple. Around her, chaos swirls in a wide spiral: paper airplanes, torn papers, crumpled snack wrappers and zigzag scribble lines in coral and violet spin outward, while a calm cream circle surrounds only her. Thin outlined circles, dotted lines and abstract typography-like bars decorate the violet background. Offset flat navy drop shadow. Strong contrast between stillness and chaos. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, front view, exasperated, half-closed eyes, frown, hand on forehead, sweatdrop, sigh, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, black pantyhose, high contrast, vibrant Japanese anime art style.
+```
+
+### RMG1-7. 과녁 앞 궁도 이탈 순간 (의상 변경)
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of white, black, vermilion red and a single gold accent, white sticker-style outline around the character. A cowboy shot from the side of a petite anime girl in a white kyudo uniform and black hakama at the instant of releasing an arrow, her posture perfectly straight and her expression calm and expressionless. Behind her, a giant archery target made of concentric rings in white, black and red fills the frame, and a single long gold line traces the arrow's path straight through its center. Straight horizontal and vertical lines, thin outlined circles and abstract typography-like bars frame the composition. Her short dark hair and sleeve ends ripple from the release, with an offset flat black drop shadow. Rigid, centered composition with a sharp horizontal axis. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, from side, kyudo, releasing arrow, drawing bow, focused, expressionless, dark short hair, purple eyes, white kyudo uniform, black hakama, high contrast, vibrant Japanese anime art style.
+```
+
+### RMG1-8. 수직 빗줄기 속 마지못한 우산 (츤데레)
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of dark teal, navy, white and a single red accent, white sticker-style outline around the character. A cowboy shot from a three-quarter angle of a petite anime girl prefect tilting a large navy umbrella toward the viewer while looking away with a pout and a faint blush, her own shoulder left out in the rain. Perfectly straight vertical rain lines in white fall evenly across the whole frame like a strict grid, and a large navy circle, the umbrella canopy, sits at the top of the composition with the red armband as the only warm color below. Flat circular ripples spread at the bottom, and thin outlined circles and abstract typography-like bars add a graphic layer. Offset flat teal drop shadow. Orderly vertical composition. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, three-quarter view, looking away, pout, blush, holding umbrella, tilted umbrella, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, black pantyhose, high contrast, vibrant Japanese anime art style.
+```
+
+### RMG1-9. 겨울 아침 핫팩 내밀기 (카메라 쪽으로 뻗는 손)
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of ice blue, white, navy and a single red accent, white sticker-style outline around the character. A cowboy shot from a low front angle of a petite anime girl prefect in a navy duffle coat and white scarf, stretching one hand toward the camera with a small hand warmer on her palm, creating strong foreshortening, while looking away with nearly expressionless eyes and red cheeks. A white breath cloud drifts upward as a clean rounded shape, and flat white circles of various sizes fall like snow in evenly spaced rows. A large pale-blue square sits behind her head, her scarf end breaking out across its edge, and thin outlined circles, grid lines and abstract typography-like bars fill the background. Offset flat navy drop shadow. Quiet, orderly composition. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, from below, expressionless, blush, looking away, outstretched hand, foreshortening, holding hand warmer, white breath, dark short hair, purple eyes, navy duffle coat, white scarf, red prefect armband, white shirt, pink bowtie, navy pleated skirt, black pantyhose, high contrast, vibrant Japanese anime art style.
+```
+
+### RMG1-10. 들킨 간식, 무너지는 위엄 (깨지는 도형)
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of navy, cream, soft pink and a single red accent, white sticker-style outline around the character. A cowboy shot at eye level of a petite anime girl prefect frozen in shock with a big cream puff in her mouth, her cheeks puffed, a dab of cream on her cheek, her purple eyes wide and her face bright red. Behind her, a rigid navy grid of perfect squares and straight lines, the symbol of her stern image, is shattering into flat geometric shards that burst outward in all directions. Flat cream blobs, crumb-shaped triangles and small pink hearts scatter among the shards, and thin outlined circles and abstract typography-like bars fill the gaps. Her short dark hair jumps with the shock, with an offset flat red drop shadow. Strong contrast between order and collapse. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, front view, flustered, blush, wide eyes, puffed cheeks, eating cream puff, cream on cheek, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, black pantyhose, high contrast, vibrant Japanese anime art style.
+```
+
+## R-2. 레이 일반 2차 (추가 5종)
+
+### R2-1. 전신 / 문화제 순찰, 압수품 가득
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A full body shot from a slightly low angle of a petite anime girl prefect walking through a bustling school culture festival, a confiscated water gun in one hand and a bulging bag of confiscated goods swinging from the other. Her face is flatly expressionless, her purple eyes scanning the crowd for the next violation. Paper lanterns, colorful banners and handmade stall signs line both sides of the path, balloons float overhead, and a rubber toy and a paper fan are spilling out of the bag as she walks. A breeze flutters the banners and her short dark hair, and bright daylight casts crisp, hard-edged shadows on the festival path. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+full body, from below, walking, expressionless, holding water gun, carrying bag, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, petite, black pantyhose, loafers, high contrast, vibrant Japanese anime art style.
+```
+
+### R2-2. 얼굴 클로즈업 / 드문 작은 미소
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A close-up of a stern anime girl's face from a slightly low angle, turned a little to the side in a quiet classroom at sunset. The corners of her lips curve in a rare, tiny smile, her purple eyes have softened as she watches something off-screen, and a faint blush colors her cheeks as if she is trying and failing to hide it. Warm orange light from the window casts a clean, hard-edged shadow across part of her face, and a few dust motes sparkle in the beam. Her short dark hair moves slightly in a breeze from the open window, and the background is a simple, softly blurred classroom in flat colors. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+close-up, face focus, from below, faint smile, blush, soft eyes, looking to the side, dark short hair, purple eyes, high contrast, vibrant Japanese anime art style.
+```
+
+### R2-3. 바스트샷 / 억지로 쓴 고양이 귀 (할로윈)
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A bust shot at eye level of an anime girl prefect standing with her arms crossed, wearing a black cat-ear headband and a tiny bell choker that someone forced on her, staring at the viewer with a flat, expressionless face and a deep blush she refuses to acknowledge. Her purple eyes are narrowed in silent resentment. Behind her, a Halloween-decorated classroom is filled with jack-o'-lantern garlands and paper bats that sway gently, a small bell jingles each time she shifts, and warm orange light from the pumpkin lamps casts sharp, flat shadows. Her red armband is still neatly in place. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+bust shot, upper body, eye level, expressionless, blush, narrowed eyes, arms crossed, cat ear headband, bell choker, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, high contrast, vibrant Japanese anime art style.
+```
+
+### R2-4. 카우보이샷 / 자 들이밀며 앞머리 검사
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A cowboy shot from a slightly low front angle of a petite anime girl prefect holding a wooden ruler straight toward the camera, with strong foreshortening, as if measuring the viewer's bangs, her other hand planted on her hip. Her expression is flat and unimpressed, her purple eyes half-lidded, and her brow is faintly furrowed in quiet disapproval. In the corridor behind her, rows of lockers and a bulletin board with flat paper notices line the wall, and a draft from an open window makes the papers flutter and her short dark hair sway. Bright daylight from the hallway windows creates sharp, clean shadow boundaries on the floor. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+cowboy shot, from below, expressionless, half-closed eyes, disapproving, holding ruler, foreshortening, hand on hip, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, petite, black pantyhose, high contrast, vibrant Japanese anime art style.
+```
+
+### R2-5. 전신 / 옥상 난간 앞 노을 (조용한 장면, 뒷모습)
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A full body shot from behind, over the shoulder, of a petite anime girl prefect standing alone at a school rooftop railing, both hands resting on the metal bar as she looks out over a city at sunset. Her stern posture has loosened slightly, and her profile shows a calm, faintly relieved expression. A steady wind ruffles her short dark hair and the hem of her jacket and skirt, and a flock of birds crosses the orange sky in a flat V shape. The city skyline is a layered silhouette of simple flat shapes, and her long, hard-edged shadow stretches across the concrete rooftop floor. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+full body, from behind, over the shoulder, looking at sunset, hands on railing, calm, relieved, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, petite, black pantyhose, loafers, high contrast, vibrant Japanese anime art style.
+```
+
+## R-MG2. 레이 모션그래픽 2차 (추가 5종)
+
+### RMG2-1. 거대한 도장 내리찍기 (결재)
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of cream, red, navy and a single black accent, white sticker-style outline around the character. A cowboy shot from a high front angle of a petite anime girl prefect slamming a large hanko stamp down toward the camera, the stamp enlarged by strong foreshortening, while her expressionless purple eyes look straight through the viewer. A huge red circular stamp impression, drawn as an empty seal without any text, fills the center of the frame behind her. Straight lines, ruled paper patterns, thin outlined squares and abstract typography-like bars fill the cream background, and small flat ink splatters burst outward from the point of impact. Her short dark hair jumps slightly from the force, with an offset flat navy drop shadow. Rigid, impactful composition. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, from above, expressionless, stamping, holding stamp, foreshortening, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, black pantyhose, high contrast, vibrant Japanese anime art style.
+```
+
+### RMG2-2. 스톱워치 카운트다운 (시계 원형 눈금)
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of navy, mint green, white and a single orange accent, white sticker-style outline around the character. A cowboy shot from a front angle of a petite anime girl prefect holding a stopwatch up toward the viewer in one hand, her face expressionless and her brows drawn in a flat frown as if announcing that time is up. A giant clock-face circle in mint and white, with evenly spaced tick marks, fills the background behind her, and a single orange hand points straight at the viewer. Thin outlined concentric circles, small flat numerals replaced by dots, grid lines and abstract typography-like bars decorate the navy background. Her short dark hair is perfectly still, with an offset flat orange drop shadow. Precise, clockwork-like symmetrical composition. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, front view, expressionless, frown, holding stopwatch, outstretched arm, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, black pantyhose, high contrast, vibrant Japanese anime art style.
+```
+
+### RMG2-3. 교칙 조항을 읽는 낭독 (날아가는 책장)
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of burgundy, cream, navy and a single gold accent, white sticker-style outline around the character. A cowboy shot from a slightly low three-quarter angle of a petite anime girl prefect reading from a thick rulebook held open in both hands, her mouth slightly open mid-recitation and her expression flat and unyielding. Flat white pages tear free from the book and fly outward in straight diagonal lines, each leaving a thin motion trail, while ruled text-like lines on the pages are drawn as simple horizontal bars. A huge burgundy rectangle sits behind her like a book cover, with her book breaking out in front of its edge, and thin outlined circles, gold stars and abstract typography-like bars fill the navy background. Offset flat burgundy drop shadow. Orderly, linear composition. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, three-quarter view, from below, expressionless, reading, holding book, open mouth, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, black pantyhose, high contrast, vibrant Japanese anime art style.
+```
+
+### RMG2-4. 손전등 순찰, 암전 속 빛의 부채꼴
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of near-black navy, warm yellow, white and a single red accent, white sticker-style outline around the character. A cowboy shot from a low three-quarter angle of a petite anime girl prefect sweeping a flashlight across a dark space, her expressionless purple eyes alert and her head turned sharply toward the beam. A hard-edged cone of warm yellow light cuts diagonally through the near-black background, and geometric shadow shapes, such as window frames and lockers, are revealed inside the cone as clean flat silhouettes. Thin outlined circles, crosshair lines, halftone dots and abstract typography-like bars appear only within the light. Her red armband is the only other color, with an offset flat black drop shadow. High-contrast, searchlight-like composition. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, three-quarter view, from below, expressionless, alert, holding flashlight, night, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, black pantyhose, high contrast, vibrant Japanese anime art style.
+```
+
+### RMG2-5. 반으로 갈린 화면 (엄격함 vs 부드러움)
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of navy, soft pink, cream and a single red accent, white sticker-style outline around the character. A cowboy shot from a straight front angle of a petite anime girl prefect standing exactly on a vertical split line down the center of the frame. The left half of the background is a rigid navy grid with straight white lines and sharp triangles, and the right half is soft pink and cream with round flat circles and small hearts. Her face is split in mood too: the left side of her expression is stern and expressionless, while the right side shows a faint, shy smile with a blush, as if her composure is melting. Her short dark hair is perfectly still on the stern side and slightly swaying on the soft side. Thin outlined circles and abstract typography-like bars decorate both halves, with an offset flat red drop shadow. Strong symmetrical contrast. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, front view, split expression, faint smile, blush, shy, stern, dark short hair, purple eyes, navy jacket, white shirt, pink bowtie, red prefect armband, navy pleated skirt, black pantyhose, high contrast, vibrant Japanese anime art style.
+```
+
+## R-J. 레이 유도복 (일반)
+
+### RJ-1. 전신 / 업어치기 한판
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A dynamic full body shot from a low dutch angle of a petite anime girl in a white judo uniform and a black belt, executing a shoulder throw on a much larger opponent in a blue judo uniform who flips through the air over her back. Her bare feet are planted firmly on the green tatami, her face is calm and expressionless, and her narrowed purple eyes show no strain at all. Dust puffs from the mat at the moment of impact, her short dark hair and loose sleeves ripple with the force, and the seams of the mats ripple slightly under the shock. Bright dojo lights create sharp, clean shadow boundaries on the floor, and spectators are simple flat silhouettes along the wall. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+full body, dutch angle, judo throw, shoulder throw, expressionless, narrowed eyes, dark short hair, purple eyes, white judo uniform, black belt, petite, barefoot, high contrast, vibrant Japanese anime art style.
+```
+
+### RJ-2. 카우보이샷 / 깃을 잡으려 손을 뻗는 자세
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A cowboy shot from a front angle of a petite anime girl in a white judo uniform and a black belt, lowering her stance and reaching both hands toward the camera to grab the viewer's collar, with strong foreshortening. Her purple eyes are sharp and unwavering, her brows are set in a faint serious frown, and a bead of sweat slides down her cheek. Behind her, a wooden-walled dojo is lit by beams of light from high windows, with dust floating in the beams, and the mat lines recede in clean perspective. Her short dark hair sways slightly from the quick step, and the knotted black belt swings at her waist. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+cowboy shot, front view, judo stance, reaching toward viewer, grabbing, foreshortening, serious, frown, sweat, dark short hair, purple eyes, white judo uniform, black belt, petite, high contrast, vibrant Japanese anime art style.
+```
+
+### RJ-G1. 미디엄샷 / 케사가타메 (누르기 한판)
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A medium shot from a high angle of a petite anime girl in a white judo uniform and a black belt, pinning a much larger opponent in a blue judo uniform flat on the green tatami in a scarf hold (kesa-gatame). She lies low alongside the opponent's chest with one arm hooked under their arm and the other gripping the collar, her face calm and expressionless, her purple eyes narrowed with steady focus and her breathing even. The opponent's face is turned away as they strain in vain, a referee in the background raises one hand and a scoreboard timer glows on the wall. The tatami creases and its seams shift under the pressure, a few drops of sweat fly, and bright dojo lights cast sharp, clean shadow boundaries across the mat. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+medium shot, from above, kesa-gatame, hold-down, pinning opponent, expressionless, calm, narrowed eyes, dark short hair, purple eyes, white judo uniform, black belt, high contrast, vibrant Japanese anime art style.
+```
+
+### RJ-G2. 전신 / 주지가타메 (암바)
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A dynamic full body shot from a low dutch angle of a petite anime girl in a white judo uniform and a black belt, lying on her back on the green tatami and applying a cross-body armbar (juji-gatame) to a much larger opponent in a blue judo uniform. Her legs are clamped across the opponent's chest and shoulder, her hips are lifted, and she holds the opponent's arm straight against her chest with both hands, her face calm and expressionless with narrowed purple eyes. The opponent's free hand slaps the mat in a tap, the tatami buckles slightly beneath them, and dust and sweat drops burst outward. A referee lunges in from the side with an outstretched hand, and bright dojo lights create sharp, clean shadow boundaries on the mat. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+full body, dutch angle, juji-gatame, armbar, lying on back, holding arm, expressionless, narrowed eyes, dark short hair, purple eyes, white judo uniform, black belt, petite, barefoot, high contrast, vibrant Japanese anime art style.
+```
+
+### RJ-G3. 바스트샷 / 우데가라미 (팔 관절기), 탭 순간
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A bust shot from a low angle near the tatami surface of an anime girl in a white judo uniform and a black belt, kneeling beside a much larger opponent and locking their bent arm in a figure-four arm entanglement (ude-garami). Her face fills the center of the frame, calm and expressionless, with sharp narrowed purple eyes locked on the opponent's elbow and a bead of sweat sliding down her cheek. In the foreground, the opponent's open hand slaps the green mat in a tap, drawn with flat impact lines and small dust puffs, and the mat seams shift beneath the force. Her short dark hair clings slightly to her forehead, and bright dojo lights create clean, hard-edged shadows across the mat. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+bust shot, upper body, from side, low angle, ude-garami, arm lock, kneeling, focused, expressionless, narrowed eyes, sweat, dark short hair, purple eyes, white judo uniform, black belt, high contrast, vibrant Japanese anime art style.
+```
+
+상대 선수 얼굴이 무리하게 그려지면 `a larger opponent seen only from behind` 또는 `faceless`를 추가하세요.
+
+## R-JMG. 레이 유도복 (모션그래픽)
+
+### RJMG-1. 반원으로 휘어지는 메치기 궤적
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of white, black, tatami green and a single red accent, white sticker-style outline around the character. A cowboy shot from the side of a petite anime girl in a white judo uniform and a black belt in the middle of a throw, both hands pulling down and her expression calm and expressionless. A giant red circle sits behind her like a rising sun, and a perfect semicircular arc in black sweeps over her shoulder, with a large flat blue silhouette of her opponent and three stepped afterimages tracing the flipping path along it. The floor is a clean grid of tatami rectangles in green, and thin outlined circles, straight lines and abstract typography-like bars decorate the white background. Her short dark hair and sleeves flare along the arc, with an offset flat black drop shadow. Bold, sweeping composition built on a single curve. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, from side, judo throw, expressionless, dark short hair, purple eyes, white judo uniform, black belt, high contrast, vibrant Japanese anime art style.
+```
+
+### RJMG-2. 입례(礼), 정적인 인사
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of white, black, tatami green and a single red accent, white sticker-style outline around the character. A cowboy shot from a straight side angle of a petite anime girl in a white judo uniform and a black belt performing a perfect standing bow, her back straight, her hands resting on her thighs, her eyes lowered and her expression calm and serene. The composition is almost empty: a vast white background, a single red circle behind her head like a stamp, and the black belt extended as one long horizontal line that runs across the whole frame. Thin vertical lines, a few tick marks and abstract typography-like bars sit quietly at the edges. Her short dark hair hangs perfectly still, with an offset flat green drop shadow. Minimal, ritual-like composition with generous negative space. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, from side, standing bow, bowing, closed eyes, calm, serene, hands on thighs, dark short hair, purple eyes, white judo uniform, black belt, high contrast, vibrant Japanese anime art style.
+```
+
+## R-F. 레이 패스트푸드 알바 (일반)
+
+복장: 붉은 폴로셔츠(노란 트림), 검은 앞치마, 빨간 바이저 캡, 헤드셋, 글자 없는 이름표, 검은 바지. 특정 브랜드 로고는 피했습니다.
+
+### RF-1. 바스트샷 / 영혼 없는 영업 미소로 쟁반 건네기
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A bust shot at eye level of an anime girl in a fast-food restaurant uniform, a red polo shirt with yellow trim, a black apron, a red visor cap and a headset, standing behind the counter and pushing a tray of a burger and fries toward the viewer. She is forcing a stiff customer-service smile, with one corner of her mouth twitching and her purple eyes completely dead, as if she is following a manual. A blank name tag is pinned to her chest, steam rises from the fries, and a menu board of simple flat food icons glows above her. Bright fluorescent light creates sharp, clean shadows on the counter. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+bust shot, upper body, eye level, forced smile, twitching mouth, dead eyes, holding tray, dark short hair, purple eyes, red visor cap, headset, red polo shirt, yellow trim, black apron, name tag, high contrast, vibrant Japanese anime art style.
+```
+
+### RF-2. 전신 / 점심 러시, 음료 쟁반 묘기
+```
+anime screencap, modern TV anime style, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed. A dynamic full body shot from a low dutch angle of a petite anime girl in a fast-food restaurant uniform, a red polo shirt with yellow trim, a black apron, a red visor cap, a headset and black pants, weaving between tables at lunch rush with a tray of four tall cola cups balanced on one raised hand and a paper bag in the other. Her face is strained, a large flat sweat drop slides down her temple, and her purple eyes are locked on the wobbling cups. Soda droplets and ice cubes fly off the tray, steam rises from a nearby burger, and the tiled floor shows her quick, sharp footsteps. Customers are simple blurred silhouettes, and bright light from the windows creates clean, hard-edged shadows. anime broadcast post-processing filter, subtle chromatic aberration on edges, crisp rim lighting, clean bloom effect.
+full body, dutch angle, balancing tray, carrying paper bag, strained expression, sweatdrop, dark short hair, purple eyes, red visor cap, headset, red polo shirt, yellow trim, black apron, black pants, petite, black sneakers, high contrast, vibrant Japanese anime art style.
+```
+
+## R-FMG. 레이 패스트푸드 알바 (모션그래픽)
+
+### RFMG-1. 방사 스트라이프 위 영업 미소 (감자튀김 정렬)
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of red, yellow, white and a single black accent, white sticker-style outline around the character. A cowboy shot from a front angle of a petite anime girl in a fast-food restaurant uniform, a red polo shirt with yellow trim, a black apron, a red visor cap and a headset, thrusting a tray holding a burger and fries toward the camera with strong foreshortening. She is forcing a stiff customer-service smile, with one corner of her mouth twitching and her purple eyes lifeless. Behind her, a giant yellow circle with red radial stripes fills the frame, and flat french-fry rectangles in yellow are arranged in rigid radial lines pointing at the viewer. Thin outlined circles, tag-like shapes without text, halftone dots and abstract typography-like bars decorate the background. Offset flat black drop shadow. Rigid, symmetrical composition. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, front view, forced smile, twitching mouth, dead eyes, holding tray, foreshortening, dark short hair, purple eyes, red visor cap, headset, red polo shirt, yellow trim, black apron, name tag, black pants, high contrast, vibrant Japanese anime art style.
+```
+
+### RFMG-2. 헤드셋 주문 접수, 소리 파장과 영수증 리본
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of cream, red, black and a single yellow accent, white sticker-style outline around the character. A cowboy shot from a low front angle of a petite anime girl in a fast-food restaurant uniform, a red polo shirt with yellow trim, a black apron, a red visor cap and a headset, taking an order with a flat, expressionless face and one finger pressed to the headset. Thin concentric sound-wave rings in red and cream radiate from the headset microphone, and a long cream-colored receipt ribbon with horizontal text-like bars loops in smooth S-curves around her and across the frame like a kinetic ribbon. Small flat food icons, tag-like shapes without text and halftone dots punctuate the red background. Her short dark hair is perfectly still, with an offset flat black drop shadow. Rhythmic, flowing composition against a rigid straight-edged character. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, from below, expressionless, taking order, finger on headset, dark short hair, purple eyes, red visor cap, headset, red polo shirt, yellow trim, black apron, name tag, black pants, high contrast, vibrant Japanese anime art style.
+```
+
+## R-KMG. 레이 패스트푸드 주방 포지션 (모션그래픽)
+
+복장은 알바 복장과 같고, 주방이라 바이저 캡은 빨간 주방 모자로, 헤드셋은 뺐습니다.
+
+### RKMG-1. 튀김기 바스켓 들어올리기 (수직으로 솟는 감자)
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of golden yellow, black, white and a single red accent, white sticker-style outline around the character. A cowboy shot from a low front angle of a petite anime girl in a fast-food kitchen uniform, a red polo shirt with yellow trim, a black apron and a red kitchen cap, lifting a wire fry basket straight up with a heat-resistant glove, her expression flat and focused and her purple eyes locked on the basket. Flat french-fry rectangles in golden yellow shoot upward from the basket in perfectly straight vertical columns, round oil bubbles pop in rows, and rounded white steam shapes rise beside her. A giant timer-face circle in white with evenly spaced tick marks sits behind her head, with a single red hand about to hit the top. Thin outlined circles, grid lines and abstract typography-like bars decorate the black background. Offset flat red drop shadow. Strongly vertical, rigid composition. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, from below, expressionless, focused, lifting fry basket, holding fry basket, dark short hair, purple eyes, red kitchen cap, red polo shirt, yellow trim, black apron, heat-resistant glove, name tag, black pants, high contrast, vibrant Japanese anime art style.
+```
+
+### RKMG-2. 버거 조립, 정렬선과 층 쌓기 (완벽주의)
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of cream, orange, leaf green and a single red accent, white sticker-style outline around the character. A cowboy shot from a straight front angle of a petite anime girl in a fast-food kitchen uniform, a red polo shirt with yellow trim, a black apron and a red kitchen cap, placing the final pickle slice onto a burger with a pair of tongs, her eyes narrowed in perfectionist focus and her face expressionless. Behind her, the burger's layers extend as wide horizontal bands from edge to edge of the frame, stacked in orange for the bun, green for the lettuce, red for the tomato and brown for the patty, with thin red alignment guide lines and measurement tick marks running beside each layer. A single flat green circle, the pickle, hovers exactly at the center. Thin outlined circles, crosshair marks and abstract typography-like bars decorate the cream background. Offset flat red drop shadow. Orderly, layered composition. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, front view, expressionless, narrowed eyes, focused, holding tongs, placing pickle, dark short hair, purple eyes, red kitchen cap, red polo shirt, yellow trim, black apron, name tag, black pants, high contrast, vibrant Japanese anime art style.
+```
+
+### RKMG-3. 주문 전표 레일과 타이머, "다음 주문"
+```
+flat color motion graphic illustration, graphic poster layout, crisp cel shading, clean sharp lineart, flat vibrant colors, hard-edged shadows, zero color bleed, limited palette of steel blue, cream, black and a single red accent, white sticker-style outline around the character. A cowboy shot from a low front angle of a petite anime girl in a fast-food kitchen uniform, a red polo shirt with yellow trim, a black apron and a red kitchen cap, pointing a spatula straight at the viewer with strong foreshortening as if calling out the next order, her face expressionless and her brows set in a flat frown. Above her, a straight rail of cream-colored order tickets with horizontal text-like bars stretches across the frame in a perfectly aligned row, and below each ticket a circular pie-chart timer is filled with red to different amounts. The steel-blue background is a clean grid of stainless shelves, and thin outlined circles, tick marks and abstract typography-like bars add a graphic layer. Offset flat black drop shadow. Rigid, grid-based composition. subtle chromatic aberration on edges, crisp rim lighting.
+petite, cowboy shot, from below, expressionless, frown, pointing spatula, foreshortening, dark short hair, purple eyes, red kitchen cap, red polo shirt, yellow trim, black apron, name tag, black pants, high contrast, vibrant Japanese anime art style.
 ```
 
 ---
