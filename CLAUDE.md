@@ -35,6 +35,7 @@ the character's outfits : heavy freckles, black hair, short ponytail, grey eyes,
 - 셀 쉐이딩의 매끈한 질감은 유지한다. 형식은 [화풍 → 상황 → 포즈/동작/감정 → 배경 → 외형]이고 외형은 `the character's outfits :` 또는 마지막 태그줄에 단어형으로 모은다.
 - 콘도상: 노랑 카디건은 전용. 오타쿠에게 상냥하지 않다. 선배 행세/걱정 장면 금지. 금속배트(「ギンタロウ」)는 지시가 있을 때만 등장시킨다.
 - 코하이군: 삭발(머리) 강조는 하지 않는다. 밝은 장면에서 피부색이 어둡게 나오지 않도록 `fair skin`을 쓴다. 눈에 별(sparkling) 표현은 지시가 있을 때만.
+- **코하이군이 실루엣·그림자·흐릿한 원거리 인물로 나올 때도 머리는 "매끈한 둥근 삭발 윤곽"으로 명시한다** (`a tall solid silhouette with a smooth, perfectly round shaved head, no hair, no strands, no spikes`). 머리카락 윤곽이 보이면 모브쨩의 짝사랑 상대 설정이 무너진다. 네거티브에 `hair on silhouette, spiky hair, hair strands`를 넣는다.
 - **두 캐릭터가 함께 나오는 컷은 기본적으로 접촉 금지**를 문장(`standing about an arm's length apart, never touching`)과 네거티브 프롬프트(`holding hands, linked arms, hugging, touching, shoulder to shoulder, romantic`)로 막는다. 때리는 슬랩스틱 등 접촉이 지시된 장면만 예외 (이 경우 `blood, gore, weapon` 등을 네거티브로).
 - 모션그래픽 컷은 `flat color motion graphic illustration, graphic poster layout, crisp cel shading, ... white sticker-style outline around the character` 문법을 쓰고 읽을 수 있는 글자는 `abstract typography-like bars`로 대체한다.
 - 콘도상 vs 레이의 최강 논쟁은 확정하지 않는다.
